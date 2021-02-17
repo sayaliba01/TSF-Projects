@@ -1,3 +1,7 @@
+__[Note]__ Please use NBA viewer for plotly graphs visualization rendered in code. Here is the link:
+https://nbviewer.jupyter.org/ <br>
+Copy and paste notebook url in the search engine.
+
 ## Retail Data - Exploratory Data Analysis
 ***
 #### Problem Statement:
