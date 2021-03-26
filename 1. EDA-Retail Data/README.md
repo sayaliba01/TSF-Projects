@@ -41,6 +41,8 @@ It is the relationship between Gross Profit and sales, and it is expressed in pe
 * Beyond 40% discount, the store has experienced loss only.
 * Store has been able to make higher profit, with less than 20% discount, majority being without any discount.
 
+![alt text](https://github.com/sayaliba01/TSF-Projects/blob/main/1.%20EDA-Retail%20Data/map-profit.png)
+
 ### C. Location Insights:
 ***
 * The majority of sales for the store is observed in states of California, New York, Texas, Washington , Pennsylvania and so on.
@@ -67,6 +69,7 @@ It is the relationship between Gross Profit and sales, and it is expressed in pe
 ***
 <t>The retail data for a superstore provides data for 9977 transactions across USA for selective product categories of technology, furniture and office supplies. As per the data, the store has sold 37,820 units of product items with revenue of USD 2,296,195.6 and gross profit of USD 286,241.42. For USD 230.14 sales per transaction, the store has gained profit of USD 28.69 per transaction. Majority of revenue comes from technology products. Binders and paper are having highest demand while phones, chairs are having highest sale. Highest profit comes from copiers.
 
+![alt text](https://github.com/sayaliba01/TSF-Projects/blob/main/1.%20EDA-Retail%20Data/insight.png)
 <t>When the products and locations are analysed for profit, it is observed that the transactions have incurred loss when discounts of more than 40% have been applied on products. The gross profit margin is negatively correlated with the discount. States like Texas, Pennsylvaia, Florids despite having higher sales are bringing loss to the store.
 
 <t>Overall, products like tables, bookcases and supplies are not making profit in total and have been sold with higher discounts. With increasing discount, the quantities sold for a product item are not more, rather seem to be less in most cases. The store has performed well when no discount or less than 20% discount is applied. The store might benefit by reducing discount on loss making product items.
