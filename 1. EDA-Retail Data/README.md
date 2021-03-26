@@ -48,6 +48,7 @@ It is the relationship between Gross Profit and sales, and it is expressed in pe
 * Gross profit margin is lowest in central region.
 * The data shows higher discount might have increased sales but at the cost of profit. The locations with discount more than 30% are incurring only loss.
 
+![alt text](https://github.com/sayaliba01/TSF-Projects/blob/main/1.%20EDA-Retail%20Data/pareto-states.png)
 ### D. Product Category Insights
 ***
 * Technology product sales and profit are highest while furniture has made lowest profit.
