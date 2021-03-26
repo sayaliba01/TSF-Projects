@@ -62,19 +62,28 @@ It is the relationship between Gross Profit and sales, and it is expressed in pe
 * Fasteners, machines, copiers, tables, supplies, bookcases are in less demand. With the exception of copiers all other products are being sold with lowest gross margin.
 * The highest gross profit making product is copiers, next to which comes binders.
 
-## Conclusion:
+## Observations:
 ***
 <t>The retail data for a superstore provides data for 9977 transactions across USA for selective product categories of technology, furniture and office supplies. As per the data, the store has sold 37,820 units of product items with revenue of USD 2,296,195.6 and gross profit of USD 286,241.42. For USD 230.14 sales per transaction, the store has gained profit of USD 28.69 per transaction. Majority of revenue comes from technology products. Binders and paper are having highest demand while phones, chairs are having highest sale. Highest profit comes from copiers.
 
 <t>When the products and locations are analysed for profit, it is observed that the transactions have incurred loss when discounts of more than 40% have been applied on products. The gross profit margin is negatively correlated with the discount. States like Texas, Pennsylvaia, Florids despite having higher sales are bringing loss to the store.
 
-<t>Overall, products like tables, bookcases and supplies are not making profit in total and have been sold with higher discounts. With increasing discount, the quantities sold for a product item are not increasing, rather seem to be decreasing in most cases. The store has performed well when no discount or less than 20% discount is applied. The store might benefit by reducing discount on loss making product items.
+<t>Overall, products like tables, bookcases and supplies are not making profit in total and have been sold with higher discounts. With increasing discount, the quantities sold for a product item are not more, rather seem to be less in most cases. The store has performed well when no discount or less than 20% discount is applied. The store might benefit by reducing discount on loss making product items.
 
 <t>Additionally, marketing and advertisement in regions with less customer base might help to increase the store presence, thereby increased sales.
 
+## Conclusion and future directions:
+***
+<t>The store might benefit by targetting states with higher sales (top 80%) like California, New York, Texas etc. Considering the strong negative correlation between discount and gross profit margin, store can make strategies to reduce loss from product categories like 'Binders', 'Tables', 'Machines', 'Bookcases', and 'Chairs' by adjusting discount level, preferably reducing discount offered.
+
+<t>Further business questions can be asked with this data, but are out of scope for current analysis:
+For example:
+1. Is there significant change in profit pattern across product categories among groups of three customer segment?
+2. Is quantity ordered per transaction for each customer segment and also for each shipping mode significantly different?
+
 ### Limitations:
-The dataset lacks the timeframe for data collection which can provide more insights into the retail store sales.
-The causation analysis can not be perofrmed.
+1. It is a cross-sectional data. The effects of external time-dependent factors like seasonal changes, holidays etc are ignored.
+2. The analysis shows the probable negative correlation between profit and discount and does not provide cause-effect analysis.
 ***
 ### Acknowledgement:
 I would like to thank The Sparks Foundation community, my peers and mentors for support and guidance.
